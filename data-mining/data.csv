@@ -1,0 +1,7 @@
+Name,Gender,Age,isStudent,Status
+AA,male,20,1,Accept
+BB,Female,19,1,Reject
+CC,MALE,,0,Pending
+DD,,21,1,Reject
+EE,Male,,0,Accept
+FF,Female,22,0,Accept

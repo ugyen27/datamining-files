@@ -1,0 +1,44 @@
+1. Marketing sector
+As data mining is used for the exploration of huge amount of data and to improve market segmentation, we can grow the 
+market of bhutan so faster by taking the parameters such as customer age, gender , interest etc. With a data mining process 
+the markets in Bhutan can predict which users/customers are likely to unsubscribe from services and what really interest them to 
+buy the product and for the upcoming future the market will be much better with a reasonable profit. 
+
+2. Education Sector 
+Data mining in the education system of Bhutan will help the teachers and other tutors to access students data and will be 
+able to predict the achievement levels of students where they can know those students who needs extra attention.For example 
+student A who is poor in mathematics. With such idea Bhutan could become much better as students are the base of country. 
+
+3.E-Commerce Sector
+For those Bhutanes person who are using online ecommerce websites for selling the products, should the data mining being
+used the traffic towards their site could be heavy meaning there will a many customers who will be accessing the site to buy
+desirable products.For example like an amazon whos uses data mining techniques to get more customers.  
+
+
+Descriptive Data Mining
+
+-It determines, what happened in the past by analyzing stored data.
+-It provides accurate data.
+-It requires data aggregation and data mining
+-It is based on Reactive approach
+example:Business counting for the revenue per customer. 
+
+Predictive Data Mining
+-It determines, what can happen in the future with the help past data analysis.
+-It produces outcomes without ensuring accuracy.
+-It needs statistics and data forecasting procedures.
+-It is based on Proactive approach
+example:Company can use output and revenue to determine the revenue for the coming months and determine their profitability
+
+A Data Warehouse is a location where data can be kept for later analysis. It's similar to a fast computer system with a massive data store capacity.
+
+Differnces:
+-Database is designed to record data whereas the Data warehouse is designed to analyze data
+-The database uses the Online Transactional Processing (OLTP) and Data warehouse uses Online Analytical Processing (OLAP).
+-The database helps to perform fundamental operations for your business whereas data warehouse allows you to analyze your business.
+-Data stored in the Database is up to date.Current and Historical Data is stored in Data Warehouse. May not be up to date.
+
+Similarities: 
+-Both the database and data warehouse is used for storing data.
+-Data warehouses and databases are both relational data systems, but were built to serve different purposes.
+-data are maintain in the form of table,indexes , columns and keys. The data can retrieved by using SQL queries in both the cases. 
